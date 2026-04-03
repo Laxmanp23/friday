@@ -1,0 +1,7 @@
+##############
+# .gitignore file for a typical Node.js project
+##############
+node_modules
+dist
+
+
